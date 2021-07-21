@@ -1,0 +1,36 @@
+Added:
+Hen v2.1.1 By SiSTRo
+Internal Hdd Linux Loader
+GTA V Lotus Mod Menu By 0x199 version 1.03
+NEW Auto-HEN Feature (full details below)
+
+Updated/Fixed:
+Fixed an issue with the ReactPSPlus payloads where the kernel time set would not be accurate for certain Timezones.
+Updated the ReactPSPlus payloads to now show the Current System & Kernel Clock times when you use or highlight the payloads in the menu.
+The Kernel Clock value will automatically update when you use either ReactPSPlus payload.
+Fixed an issue where a payload would not automatically reload if it encountered a Memory Error.
+Fixed an issue in the GTAV Mod Menus section where a payload would not automatically reload if it encountered a Memory Error.
+Updated the loading screen graphics in the GTAV Mod Menus page.
+Several other small tweaks to improve performance and stability.
+
+
+The NEW Auto-HEN Feature:
+Auto-Hen can be enabled or disabled by clicking on the 'Auto-Hen:on/off' button at the bottom of the screen.
+
+If you only really use the exploit menu to load HEN or if children use your console, then Auto-HEN is for you!
+
+When Auto-HEN is enabled, it will automatically load just HEN v2.1.1 when you open the menu.
+
+While Auto-HEN is enabled, if you want to use the regular menu just press the X button before HEN loads and it will
+stop loading HEN and load the regular exploit menu instead to allow you to use any of the other payloads as usual.
+
+If you are too late in pressing X to cancel, don't worry. 
+There is a built in safety feature that will stop HEN automatically loading again if it has been loaded previously.
+(This is to stop a kernel panic happening if HEN is loaded too may times in the same session)
+
+If you do not want Auto-Hen to automatically start loading the next time you open the menu, 
+just click the 'Auto-Hen:on/off' button at the bottom of the screen to turn it off.
+Now the menu will behave in exactly the same way that it always has.
+
+
+
